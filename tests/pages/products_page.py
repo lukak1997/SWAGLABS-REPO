@@ -28,7 +28,13 @@ class ProductsPage:
             item_name=item.locator('[data-test="inventory-item-name"]') 
             actual_title = item_name.text_content()
             if actual_title == desired_title:
-              print("it worked") 
+                return item
+             
+
+    def click_add_to_cart_button(self,desired_title):
+        item_box = self.find_product_by_name(desired_title)
+        button = item_box.locator('[data-test^="add-to-cart"]')
+        button.click()
 
 
 
