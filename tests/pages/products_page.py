@@ -36,7 +36,10 @@ class ProductsPage:
         button = item_box.locator('[data-test^="add-to-cart"]')
         button.click()
 
-
+    def click_remove_from_cart_button(self,desired_title):
+        item_box = self.find_product_by_name(desired_title)
+        button = item_box.locator('[data-test^="remove-sauce-labs"]')
+        button.click()
 
         
 

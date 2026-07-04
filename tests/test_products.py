@@ -3,6 +3,10 @@ from dotenv import load_dotenv
 from pages.login_page import LoginPage
 from pages.products_page import ProductsPage
 from playwright.async_api import expect
+from pages.components.header_component import HeaderComponent
+from time import sleep
+
+from tests.pages import product_page
 
 
 load_dotenv(dotenv_path=".env", override=True)
@@ -19,10 +23,22 @@ def log_in(page):
     login_page.write_password(password) 
     login_page.click_login()
 
+
+  
+
 def test_products_page(page):
     log_in(page)
     products_page= ProductsPage(page)
     assert products_page.get_product_count() > 0
+    header_component = HeaderComponent(page)
+    assert header_component.count_items_in_cart() == 0
     products_page.click_add_to_cart_button("Sauce Labs Backpack")
     products_page.click_add_to_cart_button("Test.allTheThings() T-Shirt (Red)")
+    assert header_component.count_items_in_cart() == 2
+    products_page.click_add_to_cart_button("Sauce Labs Fleece Jacket")
+    assert header_component.count_items_in_cart() == 3
+    products_page.click_remove_from_cart_button("Sauce Labs Fleece Jacket")
+    assert header_component.count_items_in_cart() == 2 
+
+
 
