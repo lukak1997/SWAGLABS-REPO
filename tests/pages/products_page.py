@@ -5,7 +5,7 @@ class ProductsPage:
         self.title=page.locator(".app_logo")
         self.cart_icon = page.locator('[data-test="shopping-cart-link"]') 
         self.drop_down_button= page.locator('[data-test="product-sort-container"]')
-        self.product_items=page.locator('[data-test="inventory-item"]').all()
+        self.product_items=page.locator('[data-test="inventory-item"]')
         
 
 
@@ -18,12 +18,12 @@ class ProductsPage:
 
 
     def get_product_count(self):
-        products= self.product_items 
+        products= self.product_items.all()
         return len(products)
     
     def find_product_by_name(self,desired_title):
         
-        products= self.product_items
+        products= self.product_items.all()
         for item in products:
             item_name=item.locator('[data-test="inventory-item-name"]') 
             actual_title = item_name.text_content()
