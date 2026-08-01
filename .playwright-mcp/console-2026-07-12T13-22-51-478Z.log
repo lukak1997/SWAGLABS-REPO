@@ -1,0 +1,67 @@
+[     380ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.saucedemo.com/:0
+[   30436ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[   30449ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[   50799ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[   50803ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1800718ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1800731ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1811054ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1811094ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1831465ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1831487ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 7178944ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 7178946ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 7189364ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 7189401ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 7209745ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 7209777ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 9000754ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 9000757ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 9011166ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 9011191ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 9031579ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 9031598ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[13040246ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[13040301ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[13050602ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[13050723ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[13070995ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[13071121ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[50380631ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[50380740ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[50401096ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[50401284ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[101106815ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[101106821ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[101118786ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[101118939ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[101139137ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[101139294ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[136352752ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[136352753ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[136363161ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[136363343ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[136383607ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[136383755ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[153987137ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[153987140ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[153997505ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[153997553ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[154017868ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[154017992ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[187081260ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[187081267ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[187101971ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[187101973ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[222888644ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[222891251ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[222899082ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[222901756ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[222920604ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[222922238ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[223200797ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[223200863ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[223211185ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[223211306ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[223231581ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[223231762ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0

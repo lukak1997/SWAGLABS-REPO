@@ -1,0 +1,3 @@
+[    2488ms] [ERROR] Failed to load resource: net::ERR_CERT_DATE_INVALID @ https://visitor.reactful.com/dist/main.rtfl.js:0
+[    4662ms] [ERROR] Not signed in with the identity provider. @ https://saucelabs.com/:0
+[    5778ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://saucelabs.com/_next/static/chunks/pages/_app-74707bc98ecb411e.js:28
