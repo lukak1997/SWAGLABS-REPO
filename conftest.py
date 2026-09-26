@@ -13,6 +13,7 @@ def page():
         context = browser.new_context()
         page = context.new_page()
         yield page
+        pass
         browser.close()
 
 
