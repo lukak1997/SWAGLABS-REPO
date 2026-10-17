@@ -13,7 +13,7 @@ from pages.product_page import ProductPage
 
 def footer_check(logged_in_page):
     footer_component = FooterComponent(logged_in_page)
-    assert footer_component.get_twitter_link_href() == "https://twitter.com/saucelabs"
+    assert footer_component.get_twitter_link_href() == "https://x.com/saucelabs"
     assert footer_component.get_facebook_link_href() == "https://www.facebook.com/saucelabs"
     assert footer_component.get_linkedin_link_href() == "https://www.linkedin.com/company/sauce-labs/"
     assert footer_component.get_footer_text() == "© 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy"

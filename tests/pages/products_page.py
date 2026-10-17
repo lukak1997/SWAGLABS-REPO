@@ -20,11 +20,12 @@ class ProductsPage:
 
 
     def get_product_count(self):
-        products= self.product_items.all()
-        return len(products)
+        self.product_items.first.wait_for(state="visible")
+        return self.product_items.count()
     
     def find_product_by_name(self,desired_title):
-        
+
+        self.product_items.first.wait_for(state="visible")
         products= self.product_items.all()
         for item in products:
             item_name=item.locator('[data-test="inventory-item-name"]') 

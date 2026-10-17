@@ -9,7 +9,7 @@ load_dotenv(dotenv_path=".env", override=True)
 @pytest.fixture(scope="function")
 def page():
     with sync_playwright() as p:
-        browser = p.firefox.launch(headless=False)
+        browser = p.firefox.launch(headless=True)
         context = browser.new_context()
         page = context.new_page()
         yield page
