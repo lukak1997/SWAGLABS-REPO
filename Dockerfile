@@ -18,4 +18,4 @@ RUN playwright install --with-deps firefox
 COPY . .
 
 # Run tests by default
-CMD ["pytest"]
+CMD ["pytest --junitxml=reports/results.xml -v -s"]
