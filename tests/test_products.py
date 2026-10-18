@@ -6,6 +6,7 @@ from playwright.async_api import expect
 from pages.components.header_component import HeaderComponent
 from time import sleep
 from pages.product_page import ProductPage
+import pytest
 
 
 
@@ -17,7 +18,7 @@ def footer_check(logged_in_page):
     assert footer_component.get_facebook_link_href() == "https://www.facebook.com/saucelabs"
     assert footer_component.get_linkedin_link_href() == "https://www.linkedin.com/company/sauce-labs/"
     assert footer_component.get_footer_text() == "© 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy"
-
+@pytest.mark.smoke
 def test_products_logged_in_page_add_to_cart(logged_in_page):
     products_logged_in_page= ProductsPage(logged_in_page)
     assert products_logged_in_page.get_product_count() > 0
